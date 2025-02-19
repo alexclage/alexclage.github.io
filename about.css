@@ -28,6 +28,10 @@ ul {
     list-style-type: square;
     margin-left: 20px;
 }
+.content {
+    padding: 20px;
+    text-align: center;
+}
 .container {
     max-width: 800px;
     margin: auto;
