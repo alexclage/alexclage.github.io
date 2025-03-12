@@ -45,3 +45,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+hero h1 {
+    text-align: center;;
+}
