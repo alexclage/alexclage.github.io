@@ -51,6 +51,9 @@ nav a:hover {
 .content p {
     color: #666;
 }
+.content li {
+    text-align:left;
+}
 footer {
     background-color: #333;
     color: #fff;
